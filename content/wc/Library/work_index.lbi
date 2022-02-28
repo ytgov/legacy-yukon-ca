@@ -1,0 +1,27 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><table width="268" border="0" align="center" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr align="center"> 
+    <td width="50" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="85" height="17" hspace="8">
+        <param name="BGCOLOR" value="">
+        <param name="BASE" value=".">
+        <param name="movie" value="../images/grind.swf">
+        <param name=quality value=high>
+        <embed src="../images/grind.swf" width="85" height="17" hspace="8" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" base="."></embed> 
+      </object></td>
+    <td width="60" valign="top"><!-- #BeginLibraryItem "/Library/work_index.lbi" --><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="91" height="17" hspace="8">
+        <param name="BGCOLOR" value="">
+        <param name="BASE" value=".">
+        <param name="movie" value="../images/family.swf">
+        <param name=quality value=high>
+        <embed src="../images/family.swf" width="91" height="17" hspace="8" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" base="."></embed> 
+      </object><!-- #EndLibraryItem --></td>
+    <td width="65" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="88" height="17" hspace="8">
+        <param name="BGCOLOR" value="">
+        <param name="BASE" value=".">
+        <param name="movie" value="../images/earning.swf">
+        <param name=quality value=high>
+        <embed src="../images/earning.swf" width="88" height="17" hspace="8" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" base="."></embed> 
+      </object></td>
+    <td width="64" valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+</table>

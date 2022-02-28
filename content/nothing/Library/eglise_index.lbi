@@ -1,0 +1,46 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <title>&eacute;glise_index</title><body onLoad="MM_preloadImages('../people/images/shelter_down.gif')">
+<table width="296" border="0" align="center" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr align="center"> 
+    <td width="80" height="15" valign="middle"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="64" height="15" hspace="5">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="eglise_intro.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="eglise_intro.swf" width="64" height="15" hspace="5" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" ></embed> 
+      </object></td>
+    <td width="123" valign="middle"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="40" height="19" hspace="5">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="eglise1.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="eglise1.swf" width="40" height="19" hspace="5" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" ></embed> 
+      </object></td>
+    <td width="46" valign="middle"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="55" height="16" hspace="5">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="education_fr.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="education_fr.swf" width="55" height="16" hspace="5" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" base="." ></embed> 
+      </object></td>
+    <td width="47" valign="bottom"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="213" height="17" hspace="5" align="bottom">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="travailleurs.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="travailleurs.swf" width="213" height="17" hspace="5" align="bottom" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" ></embed> 
+      </object></td>
+    <td width="93" valign="middle"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="85" height="14" hspace="5">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="gouvernment.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="gouvernment.swf" width="85" height="14" hspace="5" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" ></embed> 
+      </object></td>
+  </tr>
+</table>

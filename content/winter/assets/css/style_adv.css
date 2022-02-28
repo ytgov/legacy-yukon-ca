@@ -1,0 +1,14 @@
+body,
+td,
+th {
+  /* redundant rules for bad browsers  */
+  font-size: x-small;
+  voice-family: '"}"';
+  voice-family: inherit;
+  font-size: small;
+}
+html > body,
+html > body td,
+html > body th {
+  font-size: small;
+}

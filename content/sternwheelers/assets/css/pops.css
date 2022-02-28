@@ -1,0 +1,86 @@
+/*  general ------ sets z -------- */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #ffffff;
+  background-image: url(../images/pop_background.jpg);
+  background-repeat: repeat-x;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*  -------------- structure -------------- */
+
+#wrapper {
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+#content {
+  text-align: left;
+  margin: 0 auto;
+  width: 500px;
+  padding: 10px 0;
+  border-top: 1px solid #c8c9cb;
+}
+
+#footer {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #666666;
+  padding: 10px 0 5px 0;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #666666;
+  background-color: #eef3f7;
+  border: 1px outset #cccdd0;
+  width: 100px;
+  padding: 2px 20px;
+  margin: 0 2px;
+}
+
+#footer a:hover {
+  color: #ffffff;
+  background-color: #ac4427;
+  border: 1px inset;
+}
+
+.note {
+  font-style: oblique;
+}
+
+.whtedge {
+  border: 1px solid #ffffff;
+}
+
+#photo {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #eef3f7;
+  padding: 10px 0;
+  border-left: solid 3px #ffffff;
+  border-right: solid 3px #ffffff;
+}
+
+/* Font Styles */
+
+.caption {
+  font-size: 12px;
+  color: #333333;
+  padding: 0 10px 5px 10px;
+}
+
+.collection {
+  font-size: 11px;
+  color: #666666;
+  padding: 0 10px;
+}
+
+.italic {
+  font-style: italic;
+}

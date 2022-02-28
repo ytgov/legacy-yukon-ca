@@ -1,0 +1,53 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <body onLoad="MM_preloadImages('../people/images/shelter_down.gif')">
+<table width="296" border="0" align="center" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr align="center"> 
+    <td width="80" height="15" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="84" height="18">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="learningabout.swf">
+        <param name="quality" value="high">
+        <param name="base" value=".">
+        <param name="scale" value="exactfit">
+        <embed src="learningabout.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="84" height="18" ></embed> 
+      </object></td>
+    <td width="123" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="48" height="17">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="territory.swf">
+        <param name="quality" value="high">
+        <param name="base" value=".">
+        <param name="scale" value="exactfit">
+        <embed src="territory.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="48" height="17" ></embed> 
+      </object></td>
+    <td width="93" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="96" height="17">
+        <param name="BGCOLOR" value="">
+        <param name="BASE" value=".">
+        <param name="movie" value="hunting.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="hunting.swf" width="96" height="17" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" base="." ></embed> 
+      </object></td>
+  </tr>
+  <tr align="center"> 
+    <td height="15" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="46" height="17">
+        <param name="movie" value="clothing.swf">
+        <param name="quality" value="high">
+        <param name="base" value=".">
+        <param name="scale" value="exactfit">
+        <embed src="clothing.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="46" height="17" ></embed> 
+      </object></td>
+    <td valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="127" height="17">
+        <param name="movie" value="travel.swf">
+        <param name="quality" value="high">
+        <param name="base" value=".">
+        <param name="scale" value="exactfit">
+        <embed src="travel.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="127" height="17" ></embed> 
+      </object></td>
+    <td valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="41" height="14">
+        <param name="movie" value="shelter.swf">
+        <param name="quality" value="high">
+        <param name="base" value=".">
+        <param name="scale" value="exactfit">
+        <embed src="shelter.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="41" height="14" ></embed> 
+      </object></td>
+  </tr>
+</table>

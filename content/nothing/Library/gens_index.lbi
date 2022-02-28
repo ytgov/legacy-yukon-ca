@@ -1,0 +1,55 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><table width="296" border="0" align="center" cellpadding="0" cellspacing="0">
+        <!--DWLayoutTable-->
+        <tr align="center"> 
+          <td width="80" height="15" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="68" height="17">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="qui_sont_ils.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="qui_sont_ils.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="68" height="17" ></embed> 
+      </object></td>
+          <td width="123" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="50" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="Territoire.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="Territoire.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="50" height="14" ></embed> 
+      </object></td>
+          <td width="93" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="92" height="17">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="Chasse.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="Chasse.swf" width="92" height="17" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" base="." ></embed> 
+      </object></td>
+        </tr>
+        <tr align="center"> 
+          <td height="15" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="66" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="Habillement.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="Habillement.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="66" height="14" ></embed> 
+      </object></td>
+          <td valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="85" height="16">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="Deplacements.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="Deplacements.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="85" height="16" ></embed> 
+      </object></td>
+          <td valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="30" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="Abris.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="Abris.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="30" height="14" ></embed> 
+      </object></td>
+        </tr>
+      </table>

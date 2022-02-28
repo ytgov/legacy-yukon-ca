@@ -1,0 +1,202 @@
+/* Hidden History CSS by Design Station */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* Index  ----------------- */
+
+body {
+  background-image: url(../images/index/background.jpg);
+  background-repeat: repeat-x;
+  background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #533009;
+  margin: 0 auto 0 auto;
+}
+
+#index {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 0 auto 0 auto;
+  text-align: left;
+}
+
+#index_splash {
+  position: relative;
+  width: 800px;
+  height: 425px;
+  padding: 0 0 0 0;
+  background-image: url(../images/index/main_splash.jpg);
+  background-repeat: no-repeat;
+}
+
+#index_nav {
+  position: relative;
+  width: 800px;
+  height: 30px;
+}
+
+#index_en {
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  left: 135px;
+  width: 150px;
+  height: 27px;
+}
+
+#index_fr {
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  left: 525px;
+  width: 150px;
+  height: 27px;
+}
+
+#footer {
+  width: 780px;
+  height: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 25px;
+}
+
+/* Link Colors ----------- */
+
+a,
+a img {
+  border: 0;
+}
+
+#index_nav a:link {
+  color: #c8780c;
+  text-decoration: underline;
+}
+#index_nav a:visited {
+  color: #c8780c;
+  text-decoration: underline;
+}
+#index_nav a:hover {
+  color: #393939;
+  text-decoration: underline;
+}
+#index_nav a:active {
+  color: #393939;
+  text-decoration: underline;
+}
+
+#footer a:link {
+  color: #a83e30;
+  text-decoration: none;
+}
+#footer a:visited {
+  color: #a83e30;
+  text-decoration: none;
+}
+#footer a:hover {
+  color: #c8780c;
+  text-decoration: none;
+}
+#footer a:active {
+  color: #c8780c;
+  text-decoration: none;
+}
+
+/* Font Styles ----------- */
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 14px;
+  font-style: normal;
+  line-height: 24px;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  margin-bottom: 28px;
+  color: #393939;
+}
+
+h1 {
+  font-family: Times, "Times New Roman", times-roman, Georgia, serif;
+  color: #585858;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 34px;
+  line-height: 44px;
+  letter-spacing: -2px;
+  font-weight: bold;
+  text-align: right;
+}
+
+h2 {
+  font-family: "Gill Sans", Arial, Helvetica, sans-serif;
+  color: #757373;
+  margin: 0;
+  padding: 11px 0px 5px 0px;
+  font-size: 16px;
+  line-height: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Times, "Times New Roman", times-roman, Georgia, serif;
+  color: #444;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: -0.5px;
+  font-weight: normal;
+  background-color: #eaf4f8;
+  margin-bottom: 28px;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+/* Style Modifiers ----------- */
+
+.copyright {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  text-transform: none;
+  padding: 0 0 0 0;
+  margin-bottom: 15px;
+}
+
+.main_collection {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9px;
+  line-height: 11px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-align: left;
+  color: #393939;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 25px;
+  padding-bottom: 0px;
+  margin: 0 0 0 0;
+}
+
+.logo {
+  float: left;
+  margin-right: 20px;
+}

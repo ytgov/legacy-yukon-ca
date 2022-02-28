@@ -1,0 +1,33 @@
+h2 {
+  padding-top: 10px;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 20px;
+  margin: 20px;
+}
+.buttons {
+  margin-top: 5px;
+  padding-top: 5px;
+}
+.background {
+  margin-bottom: 20px;
+}
+#buttons {
+  vertical-align: middle;
+}
+ul {
+  padding-left: 5px;
+  list-style-position: outside;
+  list-style-type: none;
+  padding-top: 10px;
+  margin-left: 5px;
+  line-height: 1.5em;
+}
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+}
+.padding {
+  padding: 5px;
+}

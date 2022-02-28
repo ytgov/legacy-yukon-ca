@@ -1,0 +1,131 @@
+#topbar {
+  background-color: #336699;
+  width: 100%;
+  background-position: left;
+  text-align: center;
+  padding-top: 4px;
+  padding-right: 0px;
+  padding-bottom: 3px;
+  padding-left: 0px;
+  border-top: thin none;
+  border-right: thin none;
+  border-bottom: 1px solid #ffcc00;
+  border-left: thin none;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.9em;
+  line-height: 1.4em;
+  background-color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
+a.main {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000066;
+  text-decoration: none;
+  margin: 0em;
+  padding: 0px;
+  border: 0px none;
+}
+a span {
+  font-size: 1em;
+  font-style: italic;
+}
+a:hover {
+  color: #000000;
+  margin: 0px;
+  padding: 0px;
+  font-weight: bold;
+}
+a.sub {
+  padding-right: 0.5em;
+  text-decoration: none;
+  letter-spacing: normal;
+  border: none;
+  color: #ffffff;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+}
+#bot {
+  background-color: #336699;
+  width: 100%;
+  text-align: center;
+  padding-top: 15px;
+  height: 60px;
+}
+p.french {
+  color: #003399;
+  line-height: 1em;
+  padding: 4px;
+  vertical-align: text-top;
+  margin: 4px;
+  font-size: 0.85em;
+}
+p.english {
+  color: #990099;
+  line-height: 1em;
+  padding: 4px;
+  vertical-align: text-top;
+  margin: 4px;
+  font-size: 0.85em;
+}
+
+.capf {
+  font-size: 11px;
+  color: #003399;
+  text-align: center;
+  line-height: 12px;
+  padding: 0em;
+  margin-right: 12px;
+  margin-left: 12px;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  font-style: oblique;
+}
+.cape {
+  font-size: 11px;
+  text-align: center;
+  color: #990099;
+  line-height: 12px;
+  margin-right: 12px;
+  margin-left: 12px;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  font-style: oblique;
+}
+.tab1 {
+  background-color: #ffff99;
+  padding: 0px;
+  margin: 0px;
+  border-bottom-width: 1px;
+  border-bottom-style: groove;
+  border-bottom-color: #cccccc;
+  text-align: center;
+}
+.tab2 {
+  background-color: #ffff99;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-color: #cccccc;
+}
+span {
+  font-weight: bolder;
+}
+.wht {
+  color: #ffffff;
+  display: inline;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+}
+.super {
+  vertical-align: super;
+  font-size: smaller;
+}

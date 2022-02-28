@@ -1,0 +1,379 @@
+/* Asian History of the Yukon CSS v1 by Design Station */
+/* Global  ---------------- */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #404040;
+}
+#container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  background: #ffffff url(../images/background/background-master.jpg) repeat-x
+    center top;
+}
+#content {
+  position: relative;
+  width: 920px;
+  height: auto;
+  margin: 0 auto;
+  padding: 140px 0 40px 0;
+  background: url(../images/background/background-title.png) no-repeat center
+    top;
+}
+/* Footer */
+#footer {
+  position: relative;
+  height: auto;
+  width: 896px;
+  margin: 0 auto 0 auto;
+  padding: 40px 12px;
+}
+#footer ul {
+  font-size: 9px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#footer ul li {
+  display: inline;
+  padding: 0 20px 0 0;
+  color: #ffffff;
+}
+#footer ul li a:link,
+#footer ul li a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+#footer ul li a:hover {
+  text-decoration: underline;
+  color: #87bef6;
+}
+/* Sub */
+.sub-left {
+  float: left;
+  width: 250px;
+  height: auto;
+  padding: 0 50px 0 0;
+  margin: 70px 0 0 0;
+}
+.sub-right {
+  float: right;
+  width: 620px;
+  height: auto;
+  padding: 10px 0 20px 0;
+}
+.title {
+  margin: 14px 0;
+}
+.sub-title {
+  margin: 40px 0 3px 0;
+}
+.sr-section {
+  width: 620px;
+  height: auto;
+  margin: 10px 0 30px 0;
+}
+.sr-sidebar-right {
+  float: right;
+  width: 190px;
+  height: auto;
+  margin: 4px 0 12px 35px;
+}
+.sr-row {
+  clear: both;
+  width: 620px;
+  height: auto;
+  margin: 0 0 20px 0;
+}
+.sr-img-lc {
+  float: left;
+  width: 190px;
+  height: auto;
+  margin: 0 25px 0 0;
+}
+.sr-img-r {
+  float: right;
+  width: 190px;
+  height: auto;
+  margin: 0;
+}
+/* Navigation */
+/* Home */
+.home-navigation {
+  position: relative;
+  width: 885px;
+  height: 46px;
+  margin: 0;
+  padding: 13px 0 0 35px;
+  background: #ffffff url(../images/background/background-navigation.jpg)
+    no-repeat center top;
+}
+#nav {
+  list-style: none;
+}
+#nav ul li {
+  float: left;
+}
+#nav a {
+  float: left;
+  padding: 20px 0 0 0;
+  overflow: hidden;
+  height: 0px !important;
+}
+#n-en a {
+  width: 220px;
+  height: 20px;
+  background: url(../images/background/homepage-navigation.png) 0 0;
+  margin: 0 30px 0 0;
+}
+#n-en a:hover {
+  background-position: 0 -20px;
+}
+#n-fr a {
+  width: 278px;
+  height: 20px;
+  background: url(../images/background/homepage-navigation.png) -265px 0;
+  margin: 0 30px 0 0;
+}
+#n-fr a:hover {
+  background-position: -265px -20px;
+}
+#n-ja a {
+  width: 291px;
+  height: 20px;
+  background: url(../images/background/homepage-navigation.png) -586px 0;
+  margin: 0;
+}
+#n-ja a:hover {
+  background-position: -586px -20px;
+}
+/* Sub */
+#sub-left-nav {
+  width: 250px;
+  height: 250px;
+  margin: 0 0 240px 0;
+  padding: 0;
+}
+#sub-left-nav ul li {
+  float: left;
+  display: block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#sub-left-nav a {
+  float: left;
+  padding: 125px 0 0 0;
+  overflow: hidden;
+  height: 0px !important;
+}
+#n-early a {
+  width: 125px;
+  height: 125px;
+  background: url(../images/background/background-sub-navigation.jpg) 0 0;
+  margin: 0;
+}
+#n-early a:hover {
+  background-position: -250px 0;
+}
+#n-early a:active {
+  background-position: -500px 0;
+}
+#p-early #n-early a {
+  background-position: -500px 0;
+}
+#n-setbacks a {
+  width: 125px;
+  height: 125px;
+  background: url(../images/background/background-sub-navigation.jpg) -125px 0;
+  margin: 0;
+}
+#n-setbacks a:hover {
+  background-position: -375px 0px;
+}
+#n-setbacks a:active {
+  background-position: -625px 0;
+}
+#p-setbacks #n-setbacks a {
+  background-position: -625px 0;
+}
+#n-wada a {
+  width: 125px;
+  height: 125px;
+  background: url(../images/background/background-sub-navigation.jpg) 0 -125px;
+  margin: 0;
+}
+#n-wada a:hover {
+  background-position: -250px -125px;
+}
+#n-wada a:active {
+  background-position: -500px -125px;
+}
+#p-wada #n-wada a {
+  background-position: -500px -125px;
+}
+#n-home a {
+  width: 125px;
+  height: 125px;
+  background: url(../images/background/background-sub-navigation.jpg) -125px -125px;
+  margin: 0;
+}
+#n-home a:hover {
+  background-position: -625px -125px;
+}
+#n-home a:active {
+  background-position: -125px -125px;
+}
+/* Sub Lower */
+.sub-lower-nav {
+  clear: both;
+  float: none;
+  width: 80px;
+  height: 40px;
+  margin: 0;
+  padding: 0 0 0 840px;
+}
+#sl-nav li {
+  display: inline;
+  padding: 0;
+  list-style: none;
+}
+#sl-nav a {
+  float: left;
+  padding: 40px 0 0 0;
+  margin: 0;
+  overflow: hidden;
+  height: 0px !important;
+}
+#sln-top a {
+  width: 40px;
+  height: 40px;
+  background: url(../images/background/subpage-button.jpg) 0 0;
+}
+#sln-top a:hover {
+  background-position: 0 -40px;
+}
+#sln-top a:active {
+  background-position: 0 -80px;
+}
+#sln-next a {
+  width: 40px;
+  height: 40px;
+  background: url(../images/background/subpage-button.jpg) -40px 0;
+}
+#sln-next a:hover {
+  background-position: -40px -40px;
+}
+#sln-next a:active {
+  background-position: -40px -80px;
+}
+#sln-home a {
+  width: 40px;
+  height: 40px;
+  background: url(../images/background/subpage-button.jpg) -80px 0;
+}
+#sln-home a:hover {
+  background-position: -80px -40px;
+}
+#sln-home a:active {
+  background-position: -80px -80px;
+}
+/* Homepage */
+.master-image {
+  width: 920px;
+  height: 461px;
+  margin: 0;
+  padding: 0;
+  background: #ffffff url(../images/background/homepage-master.jpg) no-repeat;
+}
+/* Global */
+.clear {
+  float: none;
+  clear: both;
+}
+.logo-float {
+  float: right;
+  margin: 0 0 0 10px;
+  padding: 20px 0 0 0;
+}
+/* Link Colors ----------- */
+a,
+a img {
+  border: 0;
+}
+.main-right a:link,
+.main-right a:visited {
+  text-decoration: underline;
+  color: #ffffff;
+}
+.main-right a:hover {
+  text-decoration: none;
+  color: #bff7de;
+}
+.main-right a:active {
+  text-decoration: underline;
+  color: #f79c85;
+}
+.sub-right a:link,
+.sub-right a:visited {
+  text-decoration: none;
+  color: #b00202;
+}
+.sub-right a:hover {
+  text-decoration: underline;
+  color: #214184;
+}
+.sub-right a:active {
+  text-decoration: none;
+  color: #bfbfbf;
+}
+/* Font Styles ----------- */
+p {
+  font-size: 13px;
+  line-height: 22px;
+  margin: 0 0 14px 0;
+  color: #242a31;
+}
+.caption-l1 {
+  font-size: 11px;
+  line-height: 12px;
+  font-weight: bold;
+  margin: 4px 0 2px 0;
+}
+.caption-l2 {
+  font-size: 10px;
+  line-height: 11px;
+  margin: 0;
+}
+/*H2*/
+h2 {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: normal;
+  margin: 0;
+  padding: 3px 0 0 0;
+  color: #b00202;
+}
+/*H3*/
+h3 {
+  font-size: 10px;
+  line-height: 11px;
+  margin: 0 0 14px 0;
+  padding: 0 0 6px 0;
+}
+/*H4*/
+h4 {
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: bold;
+  margin: 0;
+  padding: 20px 0 8px 0;
+  color: #214184;
+}
+/*H5*/
+h5 {
+  font-size: 13px;
+  line-height: 14px;
+  font-weight: bold;
+}

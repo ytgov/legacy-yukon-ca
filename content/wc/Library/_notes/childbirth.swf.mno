@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="fl_replacelink_old_1" value="../birth/birth1.htm" />
+	<infoitem key="fl_replacelink_new_1" value="../birth/birth1b.htm" />
+	<infoitem key="fl_replacelink_old_2" value="../birth/birth1.htm" />
+	<infoitem key="fl_replacelink_new_2" value="../birth/birth1b.htm" />
+	<infoitem key="fl_replacelink_count" value="2" />
+</info>
