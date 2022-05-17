@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+REPO_NAME=tc-archives
+
+build () {
+	docker build --rm -t "$REPO_NAME:latest" .
+}
+
+start () {
+	[ -n "$(docker images -q "$REPO_NAME:latest")" ] || build
+	docker run --rm -d -p 8008:80 --name "$REPO_NAME" -v "$PWD/content:/usr/share/nginx/html" "$REPO_NAME:latest"
+}
+
+stop () {
+	docker stop "$REPO_NAME"
+}
+
+refresh () {
+	stop
+	start
+}
+
+eval "$@"

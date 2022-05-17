@@ -1,0 +1,259 @@
+/* Sternwheelers of the Yukon CSS by Design Station */
+
+body {
+  font-size: 12px;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-image: none;
+  background: #ffffff;
+}
+
+#sub {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 0 0 0 0;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  background-image: none;
+}
+
+#sub_footer {
+  clear: both;
+  height: auto;
+  background-image: none;
+}
+
+/* Left Specifics --------- */
+
+#left {
+  float: none;
+  width: auto;
+  height: auto;
+}
+
+#nav {
+  display: none;
+}
+
+#location {
+  margin-left: auto;
+  margin-right: auto;
+  width: 331px;
+  height: 125px;
+}
+
+#left_content {
+  width: auto;
+  height: auto;
+  margin-top: 28px;
+  padding-right: 10px;
+}
+
+.sidefloat {
+  display: none;
+}
+
+.basefloat {
+  display: none;
+}
+
+/* Right Specifics -------- */
+
+#right {
+  float: none;
+  width: 429px;
+  height: auto;
+  padding: 0 0 0 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: none;
+}
+
+#splash {
+  width: 429px;
+  height: 350px;
+}
+
+#right_content {
+  width: 409px;
+  height: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* Link Colors ----------- */
+
+a:link,
+a:visited {
+  color: #520;
+  background: transparent;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Font Styles ----------- */
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  line-height: 22px;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  margin-bottom: 28px;
+  color: #313131;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 22px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  text-transform: none;
+  color: #ad4528;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  line-height: 22px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-transform: none;
+  color: #ad4528;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  line-height: normal;
+  margin-top: 10px;
+  text-transform: none;
+  color: #0c4464;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: Century Gothic, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  line-height: normal;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  text-transform: none;
+  color: #533009;
+}
+
+h6 {
+  font-family: Century Goth, Arial, Helvetica, sans-serif;
+}
+
+/* Style Modifiers ----------- */
+
+.p1 {
+  background-color: #ffffff;
+  padding: 0 0 0 0;
+  font-size: 13.5px;
+  line-height: 22px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1a5377;
+}
+
+.h1_indent {
+  padding-left: 0px;
+}
+
+.image {
+  padding: 0 0 0 0;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.copyright {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  text-transform: none;
+  text-align: left;
+  padding: 0 0 0 0;
+  margin-bottom: 15px;
+  color: #0b4463;
+  border-top: none;
+}
+
+.nav {
+  font-size: 12px;
+  line-height: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  color: #ffffff;
+}
+
+.caption {
+  font-size: 11px;
+  line-height: 13px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  text-transform: none;
+  text-align: right;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0 0 0 0;
+  color: #0b4463;
+}
+
+.collection {
+  font-size: 9px;
+  line-height: 11px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  text-transform: none;
+  text-align: right;
+  color: #0b4463;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  margin: 0 0 0 0;
+  color: #0b4463;
+}
+
+.left_caption {
+  display: none;
+}
+
+.left_collection {
+  display: none;
+}
+
+.left_author {
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: bold;
+}
+
+.p_nomargin {
+  margin-bottom: 0px;
+}
+
+.p_italic {
+  font-style: italic;
+}

@@ -1,0 +1,40 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<table width="434" border="0" cellpadding="5" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr> 
+    <td width="111" height="21" valign="top"><div align="center"> 
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="98" height="17">
+          <param name="movie" value="../outstanding/history.swf">
+          <param name="quality" value="high">
+          <param name="base" value=".">
+          <param name="scale" value="exactfit">
+          <embed src="../outstanding/history.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="98" height="17" ></embed> 
+        </object>
+      </div></td>
+    <td width="101" valign="top"><div align="center"> 
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="95" height="14">
+          <param name="movie" value="../outstanding/power.swf">
+          <param name="quality" value="high">
+          <param name="base" value=".">
+          <param name="scale" value="exactfit">
+          <embed src="../outstanding/power.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="95" height="14" ></embed> 
+        </object>
+      </div></td>
+    <td width="30" valign="top"><div align="center"> 
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="36" height="14">
+          <param name="movie" value="../outstanding/artists.swf">
+          <param name="quality" value="high">
+          <param name="base" value=".">
+          <param name="scale" value="exactfit">
+          <embed src="../outstanding/artists.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="36" height="14" ></embed> 
+        </object>
+      </div></td>
+    <td width="30" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="46" height="14" hspace="5">
+        <param name="movie" value="athletes.swf">
+        <param name="quality" value="high">
+        <param name="base" value=".">
+        <param name="scale" value="exactfit">
+        <embed src="athletes.swf" width="46" height="14" hspace="5" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" ></embed> 
+      </object></td>
+  </tr>
+</table>

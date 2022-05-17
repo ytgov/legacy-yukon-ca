@@ -1,0 +1,157 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  background: #778176;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #fdfefe;
+  background-image: url(../images/bg_tile.gif);
+}
+
+div,
+p,
+th,
+td,
+li,
+dd,
+dl,
+dt {
+  /* redundant selectors to help NS4 not forget */
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+TD {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+p {
+  margin-top: 0;
+  padding-top: 0;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 0px;
+  padding-bottom: 12px;
+}
+
+h3 {
+  font-size: 16px;
+  margin-bottom: 0px;
+  padding-bottom: 6px;
+}
+
+h4 {
+  font-size: 12px;
+  margin-bottom: 0px;
+  padding-bottom: 4px;
+  font-style: italic;
+}
+
+h5 {
+  font-size: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 4px;
+}
+
+h6 {
+  font-size: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 4px;
+}
+
+.imagecaption {
+  font-size: 90%;
+}
+
+a:link {
+  color: #fdfefe;
+}
+
+a:visited {
+  color: #fdfefe;
+}
+
+a:hover {
+  color: #a6a6a6;
+}
+
+a:active {
+  color: #333333;
+}
+
+a.f-tn {
+  border: thick solid #778176;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.f-tn:hover {
+  border: thin solid #641339;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.w-tn {
+  border: thick solid #778176;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.w-tn:hover {
+  border: thin solid #3651cb;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.h-tn {
+  border: thick solid #778176;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.h-tn:hover {
+  border: thin solid #c27732;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.s-tn {
+  border: thick solid #778176;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.s-tn:hover {
+  border: thin solid #87bf8a;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.c-tn {
+  border: thick solid #778176;
+  border-width: 2px 2px 2px 2px;
+}
+
+a.c-tn:hover {
+  border: thin solid #59a7df;
+  border-width: 2px 2px 2px 2px;
+}
+
+.photo {
+  border: thick solid White;
+  border-width: 12px 12px 12px 12px;
+}
+
+.photo-caption {
+  text-align: left;
+  line-height: 1.5em;
+}
+
+.photo-collection {
+  text-align: left;
+  padding: 8px 0px 0px 0px;
+  font-style: italic;
+}
+
+/* Vue.js directive for hiding content until app is fully rendered */
+[v-cloak] {
+  display: none;
+}

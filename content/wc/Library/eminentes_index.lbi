@@ -1,0 +1,44 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<table width="434" border="0" cellpadding="5" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr> 
+    <td height="25" align="center" valign="top"><div align="center"> 
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="99" height="14">
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <param name="movie" value="histoire.swf">
+          <param name="quality" value="high">
+          <param name="scale" value="exactfit">
+          <embed src="histoire.swf" width="99" height="14" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" ></embed> 
+        </object>
+      </div></td>
+    <td height="25" align="center" valign="top"><div align="center"> 
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="108" height="16">
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <param name="movie" value="pouvoir.swf">
+          <param name="quality" value="high">
+          <param name="scale" value="exactfit">
+          <embed src="pouvoir.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="108" height="16" ></embed> 
+        </object>
+      </div></td>
+    <td height="25" valign="top"><div align="center">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="43" height="14">
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <param name="movie" value="artistes.swf">
+          <param name="quality" value="high">
+          <param name="scale" value="exactfit">
+          <embed src="artistes.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="43" height="14" ></embed> 
+        </object>
+      </div></td>
+    <td height="25" align="center" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="49" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="athletes_fr.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="athletes_fr.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="49" height="14" ></embed> 
+      </object></td>
+  </tr>
+</table>

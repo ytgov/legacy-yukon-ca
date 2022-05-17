@@ -1,0 +1,41 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <title>or_index</title><body onLoad="MM_preloadImages('../people/images/shelter_down.gif')">
+<table width="212" border="0" align="center" cellpadding="0" cellspacing="8">
+  <!--DWLayoutTable-->
+  <tr align="center"> 
+    <td width="80" height="15" valign="top"> 
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="64" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="or_intro.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="or_intro.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="64" height="14" ></embed> 
+      </object></td>
+    <td width="60" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="70" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="Decouvreurs.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="Decouvreurs.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="70" height="14" ></embed> 
+      </object></td>
+    <td width="28" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="40" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="Guides_fr.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="Guides_fr.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="40" height="14" ></embed> 
+      </object></td>
+    <td width="12" valign="top"> 
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="145" height="14">
+        <param name="BASE" value=".">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="han_fr.swf">
+        <param name="quality" value="high">
+        <param name="scale" value="exactfit">
+        <embed src="han_fr.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="145" height="14" ></embed> 
+      </object></td>
+    <td width="12" valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+</table>

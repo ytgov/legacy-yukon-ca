@@ -1,0 +1,483 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Image de la galerie &lt; L'hiver au Yukon : du plaisir &agrave; revendre!
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="EN" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="Author" content="Yukon Archives" />
+    <meta name="Copyright" content="(C) Copyright 2002 Yukon Archives" />
+    <meta name="Keywords" content="Winter, Yukon, Archives" />
+    <meta name="Description" content="" />
+    <link
+      rel="stylesheet"
+      href="../assets/css/style.css"
+      type="text/css"
+      media="screen"
+    />
+    <style type="text/css" media="all">
+      @import "../assets/css/style_adv.css";
+    </style>
+    <script
+      type="text/javascript"
+      src="../assets/js/image-preloader.js"
+    ></script>
+  </head>
+  <body
+    bgcolor="#778176"
+    text="#FDFEFE"
+    background="../assets/images/bg_tile.gif"
+    leftmargin="0"
+    topmargin="0"
+    marginwidth="0"
+    marginheight="0"
+    onLoad="MM_preloadImages('../assets/images/fr/nav_major_home.jpg','../assets/images/fr/nav_major_festivals.jpg','../assets/images/fr/nav_major_winter_fun.jpg','../assets/images/fr/nav_major_harvesting.jpg','../assets/images/fr/nav_major_sports.jpg','../assets/images/fr/nav_major_celebrations.jpg')"
+  >
+    <table
+      v-cloak
+      id="image-viewer-app"
+      width="100%"
+      border="0"
+      cellspacing="0"
+      cellpadding="0"
+    >
+      <tr>
+        <td align="center">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr bgcolor="#eaf6fe">
+              <td>&nbsp;</td>
+              <td width="740">
+                <img
+                  src="../assets/images/fr/header.jpg"
+                  width="740"
+                  height="72"
+                  alt="L'hiver au Yukon : du plaisir à revendre!"
+                />
+              </td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td bgcolor="#778176">
+                <img
+                  src="../assets/images/blank.gif"
+                  width="8"
+                  height="7"
+                  alt=""
+                />
+              </td>
+              <td bgcolor="#778176" width="740">
+                <img
+                  :src="navbarMajorLineSrc"
+                  width="706"
+                  height="7"
+                  name="navbar"
+                  alt=""
+                />
+              </td>
+              <td bgcolor="#778176">
+                <img
+                  src="../assets/images/blank.gif"
+                  width="8"
+                  height="7"
+                  alt=""
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td width="740">
+                <table border="0" cellspacing="0" cellpadding="0" width="706">
+                  <tr>
+                    <td valign="bottom">
+                      <img
+                        src="../assets/images/blank.gif"
+                        width="22"
+                        height="23"
+                        alt=""
+                      /><img
+                        :src="leftArrowColorSrc"
+                        width="8"
+                        height="15"
+                        alt="Left arrow"
+                      /><a :href="backToGalleryLink"
+                        ><img
+                          src="../assets/images/fr/txt_back_to_gallery.gif"
+                          width="114"
+                          height="13"
+                          border="0"
+                          alt="Retour à la gallerie" /></a
+                      ><img
+                        src="../assets/images/blank.gif"
+                        width="66"
+                        height="23"
+                        alt=""
+                      />
+                    </td>
+                    <td valign="top">
+                      <a
+                        href="index.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_home.jpg',1)"
+                        ><img
+                          name="home"
+                          border="0"
+                          src="../assets/images/fr/nav_home.gif"
+                          width="43"
+                          height="23"
+                          alt="Accueil"
+                      /></a>
+                    </td>
+                    <td>
+                      <a
+                        href="festivals.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_festivals.jpg',1)"
+                        ><img
+                          name="Festivals"
+                          border="0"
+                          src="../assets/images/blank.gif"
+                          width="33"
+                          height="23"
+                          alt="Festivals"
+                      /></a>
+                    </td>
+                    <td valign="top">
+                      <a
+                        href="festivals.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_festivals.jpg',1)"
+                        ><img
+                          name="Festivals"
+                          border="0"
+                          src="../assets/images/fr/nav_festivals.gif"
+                          width="50"
+                          height="23"
+                          alt="Festivals" /></a
+                      ><template v-if="showFestivalsIndicator">
+                        <br /><img
+                          src="../assets/images/fr/nav_festivals_line.gif"
+                          width="50"
+                          height="3"
+                          alt="current page indicator"
+                        />
+                      </template>
+                    </td>
+                    <td>
+                      <a
+                        href="winter_fun.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_winter_fun.jpg',1)"
+                        ><img
+                          name="Winter_Fun"
+                          border="0"
+                          src="../assets/images/blank.gif"
+                          width="36"
+                          height="23"
+                          alt="Loisirs hivernaux"
+                      /></a>
+                    </td>
+                    <td valign="top">
+                      <a
+                        href="winter_fun.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_winter_fun.jpg',1)"
+                        ><img
+                          name="Winter_Fun"
+                          border="0"
+                          src="../assets/images/fr/nav_winter_fun.gif"
+                          width="64"
+                          height="36"
+                          alt="Loisirs hivernaux" /></a
+                      ><template v-if="showWinterFunIndicator">
+                        <br /><img
+                          src="../assets/images/fr/nav_winter_fun_line.gif"
+                          width="65"
+                          height="3"
+                          alt="current page indicator"
+                        />
+                      </template>
+                    </td>
+                    <td>
+                      <a
+                        href="harvesting.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_harvesting.jpg',1)"
+                        ><img
+                          name="Harvesting"
+                          border="0"
+                          src="../assets/images/blank.gif"
+                          width="31"
+                          height="23"
+                          alt="Gagner son pain"
+                      /></a>
+                    </td>
+                    <td valign="top">
+                      <a
+                        href="harvesting.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_harvesting.jpg',1)"
+                        ><img
+                          name="Harvesting"
+                          border="0"
+                          src="../assets/images/fr/nav_harvesting.gif"
+                          width="52"
+                          height="36"
+                          alt="Gagner son pain" /></a
+                      ><template v-if="showHarvestingIndicator">
+                        <br /><img
+                          src="../assets/images/fr/nav_harvesting_line.gif"
+                          width="62"
+                          height="3"
+                          alt="current page indicator"
+                        />
+                      </template>
+                    </td>
+                    <td>
+                      <a
+                        href="sports.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_sports.jpg',1)"
+                        ><img
+                          name="Sports"
+                          border="0"
+                          src="../assets/images/blank.gif"
+                          width="37"
+                          height="37"
+                          alt="Sports"
+                      /></a>
+                    </td>
+                    <td valign="top">
+                      <a
+                        href="sports.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_sports.jpg',1)"
+                        ><img
+                          name="Sports"
+                          border="0"
+                          src="../assets/images/fr/nav_sports.gif"
+                          width="39"
+                          height="23"
+                          alt="Sports" /></a
+                      ><template v-if="showSportsIndicator">
+                        <br /><img
+                          src="../assets/images/fr/nav_sports_line.gif"
+                          width="39"
+                          height="3"
+                          alt="current page indicator"
+                        />
+                      </template>
+                    </td>
+                    <td>
+                      <a
+                        href="celebrations.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_celebrations.jpg',1)"
+                        ><img
+                          name="Celebrations"
+                          border="0"
+                          src="../assets/images/blank.gif"
+                          width="23"
+                          height="23"
+                          alt="Célébrations"
+                      /></a>
+                    </td>
+                    <td valign="top">
+                      <a
+                        href="celebrations.html"
+                        onMouseOut="MM_swapImgRestore()"
+                        onMouseOver="MM_swapImage('navbar','','../assets/images/fr/nav_major_celebrations.jpg',1)"
+                        ><img
+                          name="Celebrations"
+                          border="0"
+                          src="../assets/images/fr/nav_celebrations.gif"
+                          width="76"
+                          height="23"
+                          alt="Célébrations" /></a
+                      ><template v-if="showCelebrationsIndicator">
+                        <br /><img
+                          src="../assets/images/fr/nav_celebrations_line.gif"
+                          width="75"
+                          height="3"
+                          alt="current page indicator"
+                        />
+                      </template>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td width="740">
+                <img
+                  src="../assets/images/blank.gif"
+                  width="32"
+                  height="32"
+                  alt=""
+                />
+              </td>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>&nbsp;</td>
+              <td width="671" align="center">
+                <table border="0" cellspacing="0" cellpadding="0" width="10%">
+                  <tr>
+                    <td valign="top" nowrap rowspan="4">
+                      <template v-if="showPreviousImage">
+                        <img
+                          :src="leftArrowColorSrc"
+                          width="8"
+                          height="15"
+                          alt="Left arrow"
+                        /> </template
+                      ><img
+                        src="../assets/images/blank.gif"
+                        width="5"
+                        height="8"
+                        alt=""
+                      />
+                    </td>
+                    <td valign="top" align="left">
+                      <template v-if="showPreviousImage">
+                        <a :href="previousImageLink"
+                          ><img
+                            src="../assets/images/fr/txt_previous_image.gif"
+                            width="109"
+                            height="16"
+                            alt="Image précédente"
+                            border="0"
+                        /></a> </template
+                      ><br />
+                      <img
+                        src="../assets/images/blank.gif"
+                        width="8"
+                        height="8"
+                        alt=""
+                      />
+                    </td>
+                    <td align="right" valign="top">
+                      <template v-if="showNextImage">
+                        <a :href="nextImageLink"
+                          ><img
+                            src="../assets/images/fr/txt_next_image.gif"
+                            width="89"
+                            height="16"
+                            alt="Image suivante"
+                            border="0"
+                        /></a>
+                      </template>
+                    </td>
+                    <td valign="top" nowrap rowspan="4">
+                      <img
+                        src="../assets/images/blank.gif"
+                        width="5"
+                        height="8"
+                        alt=""
+                      /><template v-if="showNextImage">
+                        <img
+                          :src="rightArrowColorSrc"
+                          width="8"
+                          height="15"
+                          alt="Right arrow"
+                        />
+                      </template>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">
+                      <img
+                        v-if="hasPhoto"
+                        :src="photoImageLink"
+                        :alt="photoAltText"
+                        class="photo"
+                      />
+                      <p v-else>
+                        That&nbsp;image&nbsp;could&nbsp;not&nbsp;be&nbsp;found.
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">
+                      <img
+                        src="../assets/images/blank.gif"
+                        width="32"
+                        height="12"
+                        alt=""
+                      />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">
+                      <div class="photo-caption">{{ photoCaption }}</div>
+                      <div class="photo-collection">{{ photoCollection }}</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>&nbsp;</td>
+              <td width="740">
+                <img
+                  src="../assets/images/blank.gif"
+                  width="32"
+                  height="36"
+                  alt=""
+                />
+              </td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td width="740" align="right">
+                <a href="index.html">Accueil</a
+                ><img
+                  src="../assets/images/blank.gif"
+                  width="16"
+                  height="8"
+                  alt=""
+                /><a href="festivals.html">Festivals</a
+                ><img
+                  src="../assets/images/blank.gif"
+                  width="16"
+                  height="8"
+                  alt=""
+                /><a href="winter_fun.html">Loisirs hivernaux</a
+                ><img
+                  src="../assets/images/blank.gif"
+                  width="16"
+                  height="8"
+                  alt=""
+                /><a href="harvesting.html">Gagner son pain</a
+                ><img
+                  src="../assets/images/blank.gif"
+                  width="16"
+                  height="8"
+                  alt=""
+                /><a href="sports.html">Sports</a
+                ><img
+                  src="../assets/images/blank.gif"
+                  width="16"
+                  height="8"
+                  alt=""
+                /><a href="celebrations.html">C&eacute;l&eacute;brations</a>
+              </td>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <script src="https://unpkg.com/vue@3.2.29/dist/vue.global.prod.js"></script>
+    <script src="../assets/js/image-viewer.js" type="text/javascript"></script>
+  </body>
+</html>

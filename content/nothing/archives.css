@@ -1,0 +1,54 @@
+.background {
+	background-image: url(introcollage.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+.chapter {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	left: auto;
+	line-height: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+
+
+}
+.creditline {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	text-align: left;
+
+}
+.subtitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	font-weight: bold;
+}
+.niactitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 32px;
+	color: #002D00;
+	text-align: center;
+	vertical-align: top;
+
+}
+.smallfont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	left: auto;
+	top: auto;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+
+}

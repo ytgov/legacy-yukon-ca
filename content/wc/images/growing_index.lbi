@@ -1,0 +1,35 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <title>growing_index</title><body onLoad="MM_preloadImages('file:///D|/sites/nothing/people/images/shelter_down.gif')">
+<table width="268" border="0" align="center" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr align="center"> 
+    <td width="50" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="26" height="17">
+        <param name="BGCOLOR" value="">
+        <param name="movie" value="paly.swf">
+        <param name="quality" value="high">
+        <param name="base" value=".">
+        <param name="scale" value="exactfit">
+        <embed src="paly.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" width="26" height="17" ></embed> 
+      </object></td>
+    <td width="60" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="41" height="14">
+        <param name="BGCOLOR" value="">
+        <param name="BASE" value=".">
+        <param name="movie" value="chores.swf">
+        <param name=quality value=high>
+        <embed src="chores.swf" width="41" height="14" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" base="."></embed> 
+      </object></td>
+    <td width="65" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="55" height="14" hspace="5">
+        <param name="BGCOLOR" value="">
+        <param name="BASE" value=".">
+        <param name="movie" value="education.swf">
+        <param name=quality value=high>
+        <embed src="education.swf" width="55" height="14" hspace="5" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" base="."></embed> 
+      </object></td>
+    <td width="64" valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="30" height="17">
+        <param name="BGCOLOR" value="">
+        <param name="BASE" value=".">
+        <param name="movie" value="spirit.swf">
+        <param name=quality value=high>
+        <embed src="spirit.swf" width="30" height="17" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" base="."></embed> 
+      </object></td>
+  </tr>
+</table>
